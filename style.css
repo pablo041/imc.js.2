@@ -58,7 +58,7 @@ main{
     background: #000;
     color: rgb(0, 247, 255);
     outline: none;
-    border-radius: 5px;
+    border-radius: 50px;
     cursor: pointer;
   }
  
@@ -70,10 +70,10 @@ main{
     height: 150px;
     border-radius: 5px;
     font: italic 1.5rem serif;
-    box-shadow: 0px 0px 1000px black;
+    box-shadow: 0px 0px 10px black;
     background: #000;
     color: rgb(255,198,0);
-    padding: 15px;
+    padding: 20px;
     box-sizing: border-box;
     user-select: none;
   }
