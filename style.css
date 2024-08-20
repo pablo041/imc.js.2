@@ -25,9 +25,9 @@ main{
     align-items: center;
     width: 100%;
     height: 50px;
-    font: bold 2.5rem serif;
-    border-bottom: solid 5000000px black;
-    margin-bottom: 200000px;
+    font: bold 2.500rem serif;
+    border-bottom: solid 5px black;
+    margin-bottom: 20px;
   }
  
   .input {
@@ -45,7 +45,10 @@ main{
     outline: 0;
     font: bold 1.5rem serif;
     text-align: center;
-  }
+  }nter;
+  justify-content: space-evenly;
+  border-radius: 20px;
+  box-shadow: 0 0
  
   .input label {
     font: bold 1.5rem serif;
@@ -58,7 +61,7 @@ main{
     background: #000;
     color: rgb(0, 247, 255);
     outline: none;
-    border-radius: 50px;
+    border-radius: 5px;
     cursor: pointer;
   }
  
