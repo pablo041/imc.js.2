@@ -70,10 +70,10 @@ main{
     height: 150px;
     border-radius: 5px;
     font: italic 1.5rem serif;
-    box-shadow: 0px 0px 10px black;
+    box-shadow: 0px 0px 1000px black;
     background: #000;
     color: rgb(255,198,0);
-    padding: 1500000px;
+    padding: 15px;
     box-sizing: border-box;
     user-select: none;
   }
